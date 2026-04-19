@@ -1,0 +1,177 @@
+Good morning everyone My name is Kavya.
+ Today I am going to speak about Quantum Computing: The Future of Computation. 
+In this presentation,
+ I will explain why quantum computing is becoming important, what makes it different from classical computing, 
+and how ideas from quantum mechanics led to this new model of computation
+
+ By the end of this talk, you should have a clear and simple understanding of the basic ideas behind quantum computing
+
+_________________
+
+First, let us understand why quantum computing matters.
+ For many decades, classical computers kept becoming faster because engineers were able to place more and more transistors onto chips, following what we call Moore’s Law.
+
+Moore’s Law the idea that the number of transistors on a chip doubles every two years. 
+But we’ve hit a wall. 
+Transistors are now so tiny that they’r
+
+
+
+
+e approaching the size of an atom.
+ When you get that small, classical physics starts to break down, and 'electron leakage' occurs
+
+today, transistors are approaching physical limits, and shrinking them further is becoming more difficult, more expensive, and more energy intensive. Because of this, the rate of improvement in classical computing is not as dramatic as it used to be.
+
+Also, there are certain problems, especially complex simulations of molecules, atoms, and large systems, that are extremely difficult for classical computers to handle efficiently.
+ So scientists began asking an important question: do we need a completely new model of computation? Quantum computing is one possible answer.
+
+
+We don't just need faster computers; we need a completely different kind of computer.
+
+
+________________________
+
+
+Now, what is quantum computing? 
+
+
+
+
+Quantum computing is a method of computation that uses principles of quantum mechanics, which is the physics of extremely small particles such as electrons and photons.
+
+A classical computer stores information using bits, where each bit is either 0 or 1. 
+A quantum computer uses qubits, which behave very differently from normal bits. Because qubits can use quantum effects such as superposition and entanglement, quantum computers can explore many possibilities in ways classical systems cannot directly copy.
+
+This does not mean quantum computers will replace all classical computers. Instead, they are being designed for specific large-scale and highly complex problems where quantum behavior may offer an advantage.”
+
+Think of it this way: a classical computer explores one path at a time to find the exit of a maze. A quantum computer can explore every path simultaneously. It’s designed specifically for these massive, 'exponential' problems that overwhelm our current systems."
+
+_________________________
+For this slide, I will compare classical and quantum computing. 
+In a classical computer, a bit can be either 0 or 1, but in a quantum computer, a qubit can represent 0, 1, or a quantum combination of both states through superposition.
+
+Classical systems usually process information in a more step-by-step way, 
+while quantum systems can represent parallel possibilities at the same time.
+ Classical outputs are generally deterministic, but quantum outputs are probabilistic, which means measurement gives outcomes with certain probabilities.
+
+Finally, classical scaling has practical limits because of hardware constraints, while quantum computing offers exponential potential for some special classes of problems, though not for every task
+
+
+In a classical system, if you input $X$, you get $Y$ every time—it’s deterministic. In quantum, the results are probabilistic; we look for the answer with the highest mathematical likelihood.Finally, while classical scaling is linear, quantum scaling is exponential. Adding just a few qubits can double the machine's power."
+
+___________________
+
+5
+History of Quantum Mechanics
+
+To understand quantum computing, we need to look at the history of quantum mechanics. 
+In 1900, Max Planck introduced the idea that energy is not always continuous, but can come in tiny discrete packets called quanta.
+
+A few years later, Albert Einstein used this idea to explain the photoelectric effect.
+ He proposed that light itself can behave as packets of energy, which we now call photons.
+
+These discoveries changed physics completely.
+ They showed that nature at very small scales does not behave according to ordinary classical rules,
+ and this became the foundation of modern quantum theory
+
+-------
+
+6
+
+One of the most famous ideas in quantum physics is wave-particle duality.
+ This means very small particles, such as light or electrons, can behave both like particles and like waves.
+
+The double-slit experiment demonstrates this beautifully.
+When particles pass
+
+
+
+
+
+
+
+ through two slits without path detection,
+ they form an interference pattern on the screen, which is a wave-like behavior. 
+But when we try to detect which slit the particle passes through, the interference pattern disappears.
+
+This shows that observation affects the outcome.
+ It is one of the clearest examples of quantum uncertainty and why quantum systems are so different from everyday objects
+--------------
+
+7
+
+Now let us talk about superposition,
+ which is one of the most important ideas in quantum computing.
+ A qubit can exist in multiple possible states at the same time until it is measured.
+
+A simple analogy is a spinning coin.
+ When a coin is spinning, we can think of it as not being just heads or tails,
+ but in a sense both possibilities until it lands. 
+In a similar way, a qubit in superposition can represent more than one state at once.
+
+This property allows quantum computers to process many possibilities simultaneously.
+ But once we measure the qubit, the superposition collapses and we get a definite result.
+__________________________________________
+
+8
+Another major concept is entanglement. 
+Entanglement happens when two quantum particles become linked in such a way that their states are strongly connected.
+
+If one particle is measured, the state of the other is affected according to that shared quantum relationship, 
+even if the particles are far apart. 
+This strange property is one reason quantum mechanics seems so surprising.
+
+In quantum computing, entanglement is powerful because it allows qubits to work together in coordinated ways.
+ This is especially important for quantum communication and many quantum algorithms.
+
+--------------------------------------------
+
+“The next idea is quantum interference. 
+Since quantum states behave like waves, they can combine with each other.
+
+When waves combine constructively, they strengthen each other. 
+When they combine destructively, they cancel each other out.
+ Quantum algorithms are designed to use this effect carefully, 
+so the correct answers become more likely and the wrong answers become less likely.
+
+So, quantum advantage is not just about trying every answer randomly.
+ It is about using superposition, entanglement, and interference together in a controlled way.”
+
+
+
+
+
+Think of noise-canceling headphones. They create 'destructive interference' to cancel out background noise. Quantum algorithms do the same: they use wave patterns to cancel out wrong answers and 'constructively' amplify the correct one. We aren't just guessing; we are orchestrating waves of probability.
+
+Slide 10
+“Now let us look at the measurement problem. 
+Before measurement, a quantum state is described in terms of probabilities.
+
+When we measure the system, the quantum state collapses into one definite outcome.
+ This means we cannot directly observe all parts of a superposition at once.
+ That is why quantum information is powerful but also delicate.
+
+This creates an important limitation.
+ Quantum computers must be designed very carefully,
+ because the act of measurement gives us only one final result from many possible states.”
+
+Slide 11
+“Finally, we come to the birth of quantum computing.
+ In the early 1980s, Richard Feynman argued that classical computers are inefficient at simulating quantum systems.
+
+He suggested that if nature itself is quantum mechanical,
+ then perhaps we need quantum machines to simulate it properly. 
+This was a major turning point in the history of computation. Later, 
+David Deutsch helped formalize the idea of a universal quantum computer in 1985, which pushed the field forward even more.
+
+
+
+So, quantum computing was born from a very practical scientific need: to model nature better than classical computers could.”
+
+Closing lines
+You can end your speech with this short closing:
+
+“To conclude, quantum computing is not just a faster version of classical computing. It is a completely different way of processing information based on the laws of quantum mechanics. Concepts like superposition, entanglement, interference, and measurement make it powerful, but also challenging to build and control.
+
+As classical computing approaches physical limits, quantum computing may become one of the most important technologies for solving difficult scientific and computational problems in the future. Thank you.”
